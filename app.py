@@ -1,4 +1,1 @@
-print("Hello Logging System")
-
-def log():
-    print("log something")
+print("MAIN VERSION")
